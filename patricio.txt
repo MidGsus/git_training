@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Por favor
-=======
-Ahora si va a funcionar
-2
->>>>>>> change_alice
+1
